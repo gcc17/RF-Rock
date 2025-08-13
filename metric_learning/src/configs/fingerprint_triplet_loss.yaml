@@ -1,0 +1,16 @@
+{
+    # Learning rate
+    "lr": 0.0001,
+    # Size of output embedding vector
+    # "embedding_size": 256,
+    # Numbers of classes to sample in each batch
+    "classes_per_batch": 4,
+    # Number of samples per class to sample in each batch
+    "samples_per_class": 8,
+    # Margin for triplet loss
+    "margin": 0.5,
+    # sample "batch_hard_triplets" or "batch_hardest_triplets"
+    "sampling_type": "batch_hard_triplets",
+    # Whether to use pretrained weight on ImageNet or not
+    "pretrained": True,
+}
