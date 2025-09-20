@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Member From Class: ClassName=rfid_chip_evaluation Member=C2
+Add Component: Footprint Not Found LED0402-RD_GREEN
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Net: Name=NetLED1_1
+Add Class Member: Failed to add class member : Component LED1 XL-1005UGC

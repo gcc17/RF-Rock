@@ -1,0 +1,50 @@
+Added Component: Designator=C1(CAP_CL10_SAM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_CL10_SAM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10C101JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LED0402-RD_GREEN
+Added Component: Designator=R1(R0402)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180126/C171775_15169517954031308606.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "RK73H1ETTP1211F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1.21k¦¸ ¡À1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "RK73H1ETTP1211F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55¡æ~+155¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C171775"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "RK73H1ETTP1211F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "¡À100ppm/¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ºñÄ¤µç×è"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.21k¦¸"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R1-2
+Added Net: Name=NetLED?_1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=H1-3
+Added Pin To Net: NetName=VCC Pin=T1-4
+Added Net: Name=VCC
+Added Member To Class: ClassName=rfid_chip_evaluation Member=Component C1 CL10A106KP8NNNC
+Added Member To Class: ClassName=rfid_chip_evaluation Member=Component C2 CL10C101JB8NNNC
+Add Class Member: Failed to add class member : Component LED? XL-1005UGC
+Added Member To Class: ClassName=rfid_chip_evaluation Member=Component R1 1k

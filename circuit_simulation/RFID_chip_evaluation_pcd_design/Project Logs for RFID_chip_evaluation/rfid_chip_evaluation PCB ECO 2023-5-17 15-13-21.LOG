@@ -1,0 +1,27 @@
+Added Component: Designator=LED1(LED0402-RD_GREEN)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221102/FF8D6BC2225363A60A01D46BB802F217.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1005UGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "516nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "翠绿"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "翠绿 516nm 正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1005UGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "XL-1005UGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "531nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "80mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2856703"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1005UGC_C2856703"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=VCC Pin=LED1-2
+Added Member To Class: ClassName=rfid_chip_evaluation Member=Component LED1 XL-1005UGC

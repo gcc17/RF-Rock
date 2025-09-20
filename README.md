@@ -12,11 +12,11 @@ This repository provides the implementation of **RF-Rock**, including: **simulat
 
 1. Distinctness origin: LTSpice simulation
 
-   We provide LTspice circuit simulation files (`.asc`) and plotting scripts in the `circuit_simulation` directory.
+We provide LTspice circuit simulation files (`.asc`), plotting scripts (for figure 4 in our paper), and PCD files (for figure 5 in our paper) in the `circuit_simulation` directory.
 
 2. Distinctness quantification: entropy analysis
 
-   We provide the 4-dimensional embeddings of tag signals and entropy analysis scripts in the `entropy_analysis` directory. 
+We provide the 4-dimensional embeddings of tag signals and entropy analysis scripts (for figure 7 - 9 in our paper) in the `entropy_analysis` directory. 
 
 
 

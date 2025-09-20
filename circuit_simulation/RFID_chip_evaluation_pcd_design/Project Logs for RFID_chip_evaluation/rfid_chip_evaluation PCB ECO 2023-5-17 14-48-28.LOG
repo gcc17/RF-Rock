@@ -1,0 +1,120 @@
+Added Component: Designator=H??(HDR-TH_4P-P2.54-V-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "·½Õë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "ºÚÉ«"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "»ÆÍ­"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200309/C492403_F9F19131791D08044AD4F84F8E751A34.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PZ254V-11-04P_C492403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "2.54mm 1x4P Ö±²å ·½Õë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XFCN(ÐË·É)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PZ254V-11-04P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Ö±²å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "PZ254V-11-04P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "µ¥ÅÅ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40¡æ~+105¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "1x4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "Ö±²å,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C492403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PZ254V-11-04P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=RF1(SMA-SMD_BWSMA-KE-P001)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "°å¶Ë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200416/C496550_06668BF2E3B968EA39F96D17E7156373.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BWSMA-KE-P001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency-Max"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "5.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "ÄÚ¿×"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SMA ÄÚ¿× Æ«½Å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS(òùòðÎÞÏß)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BWSMA-KE-P001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Æ«½Å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "²å¼þ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C496550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BWSMA-KE-P001"; VariantName = "[No Variations]"
+Added Component: Designator=RF2(SMA-SMD_BWSMA-KE-P001)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "°å¶Ë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200416/C496550_06668BF2E3B968EA39F96D17E7156373.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BWSMA-KE-P001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency-Max"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "5.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "ÄÚ¿×"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "À©Õ¹¿â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SMA ÄÚ¿× Æ«½Å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS(òùòðÎÞÏß)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BWSMA-KE-P001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Æ«½Å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "²å¼þ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C496550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BWSMA-KE-P001"; VariantName = "[No Variations]"
+Added Component: Designator=T1(QFN50P160X160X35-8N)
+Added Component: Designator=U1(SOTFL50P160X60-6N)
+Added Component: Designator=U2(SOTFL50P160X60-6N)
+Added Pin To Net: NetName=GND Pin=H??-1
+Added Pin To Net: NetName=GND Pin=RF1-1
+Added Pin To Net: NetName=GND Pin=RF1-2
+Added Pin To Net: NetName=GND Pin=RF2-1
+Added Pin To Net: NetName=GND Pin=RF2-2
+Added Pin To Net: NetName=GND Pin=T1-8
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetH??_2 Pin=H??-2
+Added Pin To Net: NetName=NetH??_2 Pin=T1-5
+Added Net: Name=NetH??_2
+Added Pin To Net: NetName=NetH??_3 Pin=H??-3
+Added Pin To Net: NetName=NetH??_3 Pin=T1-4
+Added Net: Name=NetH??_3
+Added Pin To Net: NetName=NetH??_4 Pin=H??-4
+Added Pin To Net: NetName=NetH??_4 Pin=T1-3
+Added Net: Name=NetH??_4
+Added Pin To Net: NetName=NetRF1_5 Pin=RF1-5
+Added Pin To Net: NetName=NetRF1_5 Pin=U1-4
+Added Net: Name=NetRF1_5
+Added Pin To Net: NetName=NetRF2_5 Pin=RF2-5
+Added Pin To Net: NetName=NetRF2_5 Pin=U2-4
+Added Net: Name=NetRF2_5
+Added Pin To Net: NetName=NetT1_1 Pin=T1-1
+Added Pin To Net: NetName=NetT1_1 Pin=U1-6
+Added Net: Name=NetT1_1
+Added Pin To Net: NetName=NetT1_2 Pin=T1-2
+Added Pin To Net: NetName=NetT1_2 Pin=U1-1
+Added Net: Name=NetT1_2
+Added Pin To Net: NetName=NetT1_6 Pin=T1-6
+Added Pin To Net: NetName=NetT1_6 Pin=U2-6
+Added Net: Name=NetT1_6
+Added Pin To Net: NetName=NetT1_7 Pin=T1-7
+Added Pin To Net: NetName=NetT1_7 Pin=U2-1
+Added Net: Name=NetT1_7
+Added Class: Name=rfid_chip_evaluation

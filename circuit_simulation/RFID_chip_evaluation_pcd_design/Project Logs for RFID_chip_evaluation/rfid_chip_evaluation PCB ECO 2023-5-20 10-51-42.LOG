@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetT1_1 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=NetRF1_5 Pin=U1-4
+Removed Pin From Net: NetName=RF1_N Pin=U1-6
+Change Component Footprint: Designator=U1 Old Footprint=SOTFL50P160X60-6N New Footprint=FV1206-1
+Change Component Footprint: Designator=U2 Old Footprint=SOTFL50P160X60-6N New Footprint=FV1206-1
+Added Pin To Net: NetName=NetRF1_5 Pin=U1-1
+Added Pin To Net: NetName=RF1_N Pin=U1-3
+Added Pin To Net: NetName=NetT1_1 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-6
